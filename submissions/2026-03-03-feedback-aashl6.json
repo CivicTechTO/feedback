@@ -1,0 +1,18 @@
+{
+  "meetup_date": "2026-03-03",
+  "submitted_at": "2026-03-04T00:58:53.549Z",
+  "attendance_mode": "online",
+  "first_time": false,
+  "overall_rating": "great",
+  "online": {
+    "av_quality": "clearly",
+    "felt_included": "somewhat"
+  },
+  "equity": {
+    "age_range": "55+",
+    "racialized": "no",
+    "disability": "no",
+    "belongs_here": "absolutely",
+    "topics_relevant": "very-relevant"
+  }
+}
