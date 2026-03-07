@@ -1,0 +1,15 @@
+{
+  "meetup_date": "2026-03-03",
+  "submitted_at": "2026-03-07T00:06:05.420Z",
+  "attendance_mode": "in-person",
+  "first_time": true,
+  "overall_rating": "good",
+  "new_attendee": {
+    "felt_welcome": "very",
+    "understood_what_was_happening": "mostly",
+    "would_return": "yes"
+  },
+  "general": {
+    "liked": "Civic Tech 101 break out was really useful"
+  }
+}
